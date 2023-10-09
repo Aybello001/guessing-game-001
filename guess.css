@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.container {
+    border: 4px solid black;
+    margin-top: 5em;
+    border-radius: 2em;
+}
+
+button {
+    padding: 8px  10px;
+    margin-top: 1em;
+}
+p,
+label{
+    font-size: 2em;
+
+}
